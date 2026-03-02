@@ -27,9 +27,9 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel&perline=4&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&perline=4&theme=dark" alt="Frameworks" />
 
-<img src="https://skillicons.dev/icons?i=tailwind&perline=4&theme=dark" alt="CSS Frameworks" />
+<img src="https://skillicons.dev/icons?i=laravel,tailwind&perline=4&theme=dark" alt="More Frameworks" />
 
 </td>
 </tr>
