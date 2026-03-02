@@ -1,0 +1,37 @@
+<svg width="854" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="dotMatrix" x="0" y="0" width="6" height="6" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.2" fill="rgba(255,145,0,0.08)"/>
+    </pattern>
+    <pattern id="scanlines" x="0" y="0" width="854" height="4" patternUnits="userSpaceOnUse">
+      <rect width="854" height="2" fill="rgba(0,0,0,0.13)"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Terminal casing bottom -->
+  <rect width="854" height="60" rx="16" fill="#1a1209"/>
+  <rect x="6" y="0" width="842" height="54" rx="12" fill="#0f0b04"/>
+
+  <!-- Screen bottom -->
+  <rect x="12" y="0" width="830" height="40" rx="4" fill="#080600"/>
+  <rect x="12" y="0" width="830" height="40" fill="url(#dotMatrix)" rx="4"/>
+  <rect x="12" y="0" width="830" height="40" fill="url(#scanlines)" rx="4" opacity="0.4"/>
+
+  <!-- Session ended text -->
+  <g filter="url(#glow)">
+    <text x="427" y="26" font-family="'Courier New', monospace" font-size="12" fill="#FF6D00" text-anchor="middle" opacity="0.5">
+      [process completed — session ended]
+    </text>
+  </g>
+
+  <!-- Bottom bezel -->
+  <rect x="6" y="40" width="842" height="20" rx="0" fill="#1a1209"/>
+  <rect x="6" y="48" width="842" height="12" rx="12" fill="#1a1209"/>
+</svg>

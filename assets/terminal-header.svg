@@ -1,0 +1,90 @@
+<svg width="854" height="280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Dot matrix pattern -->
+    <pattern id="dotMatrix" x="0" y="0" width="6" height="6" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.2" fill="rgba(255,145,0,0.08)"/>
+    </pattern>
+    <!-- Scanline pattern -->
+    <pattern id="scanlines" x="0" y="0" width="854" height="4" patternUnits="userSpaceOnUse">
+      <rect width="854" height="2" fill="rgba(0,0,0,0.13)"/>
+    </pattern>
+    <!-- Phosphor text glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Outer terminal casing -->
+  <rect width="854" height="280" rx="16" fill="#1a1209"/>
+
+  <!-- Inner bezel -->
+  <rect x="6" y="6" width="842" height="268" rx="12" fill="#0f0b04"/>
+
+  <!-- Title bar -->
+  <rect x="6" y="6" width="842" height="36" rx="12" fill="#1e1608"/>
+  <rect x="6" y="24" width="842" height="18" fill="#1e1608"/>
+
+  <!-- Window buttons -->
+  <circle cx="28" cy="24" r="7" fill="#FF6D00" opacity="0.9"/>
+  <circle cx="50" cy="24" r="7" fill="#FF9100" opacity="0.7"/>
+  <circle cx="72" cy="24" r="7" fill="#FFAB40" opacity="0.5"/>
+
+  <!-- Title text -->
+  <text x="427" y="29" font-family="'Courier New', monospace" font-size="13" fill="#FF9100" text-anchor="middle" opacity="0.8">
+    ■ TERMINAL — nicholas@dev:~
+  </text>
+
+  <!-- CRT Screen -->
+  <rect x="12" y="44" width="830" height="224" rx="6" fill="#080600"/>
+
+  <!-- Subtle screen inner glow -->
+  <rect x="12" y="44" width="830" height="224" rx="6" fill="#0d0a00" opacity="0.4"/>
+
+  <!-- Dot matrix overlay -->
+  <rect x="12" y="44" width="830" height="224" fill="url(#dotMatrix)" rx="6"/>
+
+  <!-- Scanline overlay -->
+  <rect x="12" y="44" width="830" height="224" fill="url(#scanlines)" rx="6" opacity="0.4"/>
+
+  <!-- All text with phosphor glow -->
+  <g filter="url(#glow)">
+    <!-- Name -->
+    <text x="427" y="108" font-family="'Courier New', monospace" font-size="40" fill="#FF9100" text-anchor="middle" font-weight="bold" letter-spacing="8">
+      NICHOLAS OOI
+    </text>
+
+    <!-- Decorative separator -->
+    <text x="427" y="132" font-family="'Courier New', monospace" font-size="11" fill="#FF6D00" text-anchor="middle" opacity="0.5">
+      ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪ ▪
+    </text>
+
+    <!-- Subtitle -->
+    <text x="427" y="162" font-family="'Courier New', monospace" font-size="16" fill="#FF6D00" text-anchor="middle" letter-spacing="3">
+      CLOUD · AI ENGINEER  |  FULL-STACK DEVELOPER
+    </text>
+
+    <!-- Prompt line -->
+    <text x="427" y="210" font-family="'Courier New', monospace" font-size="14" fill="#FF9100" text-anchor="middle" opacity="0.6">
+      &gt; initializing portfolio . . .
+    </text>
+  </g>
+
+  <!-- Blinking cursor -->
+  <rect x="547" y="197" width="10" height="16" fill="#FF9100" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.9;0;0" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corner decoration dots -->
+  <g opacity="0.25">
+    <circle cx="30" cy="256" r="2" fill="#FF6D00"/>
+    <circle cx="40" cy="256" r="2" fill="#FF6D00"/>
+    <circle cx="50" cy="256" r="2" fill="#FF6D00"/>
+    <circle cx="804" cy="256" r="2" fill="#FF6D00"/>
+    <circle cx="814" cy="256" r="2" fill="#FF6D00"/>
+    <circle cx="824" cy="256" r="2" fill="#FF6D00"/>
+  </g>
+</svg>
