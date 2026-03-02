@@ -1,10 +1,10 @@
 ### About Me
 
-Software engineer specializing in **cloud infrastructure** and **full-stack solutions** across web, mobile, and low-code platforms — building practical, scalable systems that deliver real impact.
+Software engineer specializing in cloud infrastructure and full-stack solutions across web, mobile, and low-code platforms. I focus on building practical, scalable systems that solve real-world problems and deliver meaningful impact. 
 
-**Founder of DevCollective (DevCo)** — Ipoh Perak's growing youth dev & tech community. Driving meetups, tech talks, and partnerships to connect youths and early-career developers.
+Founder of DevCollective (DevCo) - Malaysia's (Ipoh, Perak) leading & growing youth dev &amp; tech community, where I drive community meetups, tech talks, and partnerships to strengthen the local tech ecosystem by connecting youths, early-career developers, and tech enthusiasts.
 
-Exploring **OSINT** to uncover misconfigurations, exposed data, and security gaps — fuelling a passion for infrastructure hardening and privacy advocacy.
+I also tinker with OSINT (Open Source Intelligence) to identify misconfigurations, exposed data, and security gaps, which fuels my interest in infrastructure hardening and privacy advocacy.
 
 ---
 
