@@ -53,6 +53,17 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 </td>
 </tr>
+<tr>
+<td align="center" width="50%" colspan="2">
+
+**Low-Code & AI Tools**
+
+<img height="48" width="48" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" />
+&nbsp;&nbsp;
+<img height="48" width="48" src="https://cdn.simpleicons.org/lovable/FF6154" alt="Lovable" />
+
+</td>
+</tr>
 </table>
 
 </div>
