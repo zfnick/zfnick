@@ -42,7 +42,14 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 <img src="https://skillicons.dev/icons?i=git,linux&theme=dark" alt="Tools" />
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=alibabacloud&theme=dark" alt="Alibaba Cloud" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=alibabacloud&theme=light" alt="Alibaba Cloud" />
+
+</td>
+<td align="center" width="285">
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&theme=dark" alt="Databases" />
 
 </td>
 </tr>
