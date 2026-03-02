@@ -63,6 +63,8 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 <img height="48" width="48" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" />
 &nbsp;&nbsp;
 <img height="48" width="48" src="https://lovable.dev/favicon.ico" alt="Lovable" />
+&nbsp;&nbsp;
+<img height="48" width="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openclaw-wordmark-dark.svg" alt="OpenClaw" />
 
 </td>
 </tr>
