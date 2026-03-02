@@ -10,7 +10,7 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 ---
 
-### Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -52,7 +52,7 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 ---
 
-### GitHub Stats
+# GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://streak-stats.demolab.com/?user=zfnick&hide_border=true&border_radius=16&background=0E1117&ring=A78BFA&fire=FBBF24&currStreakLabel=A78BFA&sideLabels=C8D6FF&currStreakNum=FBBF24&sideNums=60A5FA&dates=5A5E78" alt="GitHub Streak" />
@@ -61,7 +61,7 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 ---
 
-### Activity
+# Activity
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zfnick&bg_color=0E1117&color=A78BFA&line=60A5FA&point=FBBF24&area_color=4a1a8a&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
