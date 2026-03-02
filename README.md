@@ -1,13 +1,3 @@
-<h1 align="center">Nicholas Ooi</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=550&height=28&lines=%E2%9C%A6+Building+scalable+cloud-native+systems;%E2%9C%A6+Crafting+intelligent+AI-powered+applications;%E2%9C%A6+Strengthening+security+through+OSINT;%E2%9C%A6+Leading+DevCollective+(DevCo)+community" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
 ### About Me
 
 Software engineer specializing in **cloud infrastructure** and **full-stack solutions** across web, mobile, and low-code platforms — building practical, scalable systems that deliver real impact.
@@ -66,11 +56,6 @@ Exploring **OSINT** to uncover misconfigurations, exposed data, and security gap
 </div>
 
 <br/>
-
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfnick&layout=compact&hide_border=true&border_radius=16&langs_count=8&cache_seconds=86400&bg_color=0E1117&title_color=A78BFA&text_color=C8D6FF" alt="Top Languages" />
-</div>
-
 ---
 
 ### Activity
