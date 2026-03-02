@@ -16,40 +16,40 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 <table>
 <tr>
-<td align="center" width="285">
+<td align="center" width="50%">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,php,cpp&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,php&perline=4&theme=dark" alt="Languages" />
 
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Web" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css&perline=4&theme=dark" alt="Languages" />
 
 </td>
-<td align="center" width="285">
+<td align="center" width="50%">
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel&perline=4&theme=dark" alt="Frameworks" />
 
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind&theme=dark" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=tailwind&perline=4&theme=dark" alt="CSS Frameworks" />
 
 </td>
-<td align="center" width="285">
+</tr>
+<tr>
+<td align="center" width="50%">
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,cloudflare&theme=dark" alt="Cloud" />
+<img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,linux&perline=4&theme=dark" alt="Cloud" />
 
-<img src="https://skillicons.dev/icons?i=git,linux&theme=dark" alt="Tools" />
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=alibabacloud&theme=light" alt="Alibaba Cloud" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/alibabacloud/FF6A00" alt="Alibaba Cloud" />
 
 </td>
-<td align="center" width="285">
+<td align="center" width="50%">
 
-**Databases**
+**Databases & Backend**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&theme=dark" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&perline=4&theme=dark" alt="Databases" />
 
 </td>
 </tr>
