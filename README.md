@@ -58,9 +58,6 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
   <img width="49%" src="https://streak-stats.demolab.com/?user=zfnick&hide_border=true&border_radius=16&background=0E1117&ring=A78BFA&fire=FBBF24&currStreakLabel=A78BFA&sideLabels=C8D6FF&currStreakNum=FBBF24&sideNums=60A5FA&dates=5A5E78" alt="GitHub Streak" />
 </div>
 
-
----
-
 # Activity
 
 <div align="center">
