@@ -40,9 +40,11 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,cloudflare,linux&perline=4&theme=dark" alt="Cloud" />
-
 <img height="48" width="48" src="https://cdn.simpleicons.org/alibabacloud/FF6A00" alt="Alibaba Cloud" />
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=azure,aws&perline=4&theme=dark" alt="Cloud Providers" />
+
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,linux&perline=4&theme=dark" alt="DevOps" />
 
 </td>
 <td align="center" width="50%">
@@ -60,7 +62,7 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 <img height="48" width="48" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" />
 &nbsp;&nbsp;
-<img height="48" width="48" src="https://cdn.simpleicons.org/lovable/FF6154" alt="Lovable" />
+<img height="48" width="48" src="https://lovable.dev/favicon.ico" alt="Lovable" />
 
 </td>
 </tr>
