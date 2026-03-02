@@ -44,7 +44,7 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=azure,aws&perline=4&theme=dark" alt="Cloud Providers" />
 
-<img src="https://skillicons.dev/icons?i=docker,cloudflare,linux&perline=4&theme=dark" alt="DevOps" />
+<img src="https://skillicons.dev/icons?i=docker,cloudflare,git&perline=4&theme=dark" alt="DevOps" />
 
 </td>
 <td align="center" width="50%">
