@@ -18,18 +18,18 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,php&perline=4&theme=dark" alt="Languages" />
+<img height="48" src="https://skillicons.dev/icons?i=ts,js,python,php&perline=4&theme=dark" alt="Languages" />
 
-<img src="https://skillicons.dev/icons?i=cpp,html,css&perline=4&theme=dark" alt="Languages" />
+<img height="48" src="https://skillicons.dev/icons?i=cpp,html,css&perline=4&theme=dark" alt="Languages" />
 
 </td>
 <td align="center" width="50%">
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&perline=4&theme=dark" alt="Frameworks" />
+<img height="48" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&perline=4&theme=dark" alt="Frameworks" />
 
-<img src="https://skillicons.dev/icons?i=laravel,tailwind&perline=4&theme=dark" alt="More Frameworks" />
+<img height="48" src="https://skillicons.dev/icons?i=laravel,tailwind&perline=4&theme=dark" alt="More Frameworks" />
 
 </td>
 </tr>
@@ -38,18 +38,18 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 **Cloud & DevOps**
 
-<img height="48" width="48" src="https://cdn.simpleicons.org/alibabacloud/FF6A00" alt="Alibaba Cloud" />
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=azure,aws&perline=4&theme=dark" alt="Cloud Providers" />
+<img height="48" src="https://skillicons.dev/icons?i=azure,aws,docker&perline=4&theme=dark" alt="Cloud" />
 
-<img src="https://skillicons.dev/icons?i=docker,cloudflare,git&perline=4&theme=dark" alt="DevOps" />
+<img height="48" src="https://skillicons.dev/icons?i=cloudflare,git&perline=4&theme=dark" alt="DevOps" />
+
+<img height="48" width="48" style="border-radius:8px;background:#1a1a2e;padding:8px" src="https://cdn.simpleicons.org/alibabacloud/FF6A00" alt="Alibaba Cloud" />
 
 </td>
 <td align="center" width="50%">
 
 **Databases & Backend**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&perline=4&theme=dark" alt="Databases" />
+<img height="48" src="https://skillicons.dev/icons?i=mysql,postgres,firebase&perline=4&theme=dark" alt="Databases" />
 
 </td>
 </tr>
