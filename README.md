@@ -2,8 +2,6 @@
 
 Software engineer specializing in cloud infrastructure and full-stack solutions across web, mobile, and low-code platforms. I focus on building practical, scalable systems that solve real-world problems and deliver meaningful impact. 
 
-Founder of DevCollective - Malaysia's (Ipoh, Perak) leading & growing grassroots developer &amp; tech community, where I drive community meetups, tech talks, and partnerships to strengthen the local tech ecosystem by connecting youths, early-career developers, and tech enthusiasts.
-
 Passionate about AI and leveraging it to build smarter tools, automate workflows, and enhance developer productivity.
 
 I also tinker with OSINT (Open Source Intelligence) to identify misconfigurations, exposed data, and security gaps, which fuels my interest in infrastructure hardening and privacy advocacy.
