@@ -51,7 +51,6 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 ### GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zfnick&show_icons=true&hide_border=true&border_radius=16&count_private=true&include_all_commits=true&cache_seconds=86400&bg_color=0E1117&title_color=A78BFA&icon_color=FBBF24&text_color=C8D6FF&ring_color=A78BFA" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=zfnick&hide_border=true&border_radius=16&background=0E1117&ring=A78BFA&fire=FBBF24&currStreakLabel=A78BFA&sideLabels=C8D6FF&currStreakNum=FBBF24&sideNums=60A5FA&dates=5A5E78" alt="GitHub Streak" />
 </div>
 
