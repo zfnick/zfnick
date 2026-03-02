@@ -58,7 +58,7 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 <tr>
 <td align="center" width="50%" colspan="2">
 
-**Low-Code & AI Tools**
+**Low-Code Automation & AI Tools**
 
 <img height="48" width="48" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" />
 &nbsp;&nbsp;
