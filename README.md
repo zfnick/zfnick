@@ -20,7 +20,7 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,php,cpp,cs&theme=dark" alt="Languages" />
 
 <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Web" />
 
@@ -29,7 +29,7 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel&theme=dark" alt="Frameworks" />
 
 <img src="https://skillicons.dev/icons?i=bootstrap,tailwind&theme=dark" alt="CSS" />
 
@@ -38,9 +38,11 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,github&theme=dark" alt="Cloud" />
+<img src="https://skillicons.dev/icons?i=aws,docker,gcp&theme=dark" alt="Cloud" />
 
-<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,cloudflare&theme=dark" alt="Tools" />
+
+<img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud" />
 
 </td>
 </tr>
