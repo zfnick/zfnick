@@ -27,9 +27,9 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 **Frameworks & Libraries**
 
-<img height="48" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express&perline=4&theme=dark" alt="Frameworks" />
+<img height="48" src="https://skillicons.dev/icons?i=react,nextjs,nodejs&perline=3&theme=dark" alt="Frameworks" />
 
-<img height="48" src="https://skillicons.dev/icons?i=laravel,tailwind&perline=4&theme=dark" alt="More Frameworks" />
+<img height="48" src="https://skillicons.dev/icons?i=express,laravel,tailwind&perline=3&theme=dark" alt="More Frameworks" />
 
 </td>
 </tr>
@@ -38,11 +38,10 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 **Cloud & DevOps**
 
-<img height="48" src="https://skillicons.dev/icons?i=azure,aws,docker&perline=4&theme=dark" alt="Cloud" />
+<img height="48" src="https://skillicons.dev/icons?i=azure,aws,docker&perline=3&theme=dark" alt="Cloud" />
 
-<img height="48" src="https://skillicons.dev/icons?i=cloudflare,git&perline=4&theme=dark" alt="DevOps" />
-
-<img height="48" width="48" style="border-radius:8px;background:#1a1a2e;padding:8px" src="https://cdn.simpleicons.org/alibabacloud/FF6A00" alt="Alibaba Cloud" />
+<img height="48" src="https://skillicons.dev/icons?i=cloudflare,git&perline=3&theme=dark" alt="DevOps" />
+<img height="48" width="48" src="https://cdn.simpleicons.org/alibabacloud/FF6A00" alt="Alibaba Cloud" />
 
 </td>
 <td align="center" width="50%">
