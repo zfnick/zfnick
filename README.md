@@ -1,4 +1,4 @@
-# Hi there, I'm zfnick 👋
+# Hi there, I'm Nicholas Ooi (zfnick) 👋
 
 🔭 I'm currently working on cloud & AI projects using **AWS** and **TypeScript**  
 🌱 I'm currently learning **cloud-native development** and **AI compliance tools**  
@@ -38,3 +38,9 @@
 
 ![zfnick's GitHub stats](https://github-readme-stats.vercel.app/api?username=zfnick&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zfnick&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-ooi-143180224)
