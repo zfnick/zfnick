@@ -1,10 +1,10 @@
 <!-- ===== HEADER WAVE ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Nicholas%20Ooi&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Cloud%20%C2%B7%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descColor=58a6ff&descAlignY=55&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:FF6D00,100:0d1117&height=220&section=header&text=Nicholas%20Ooi&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Cloud%20%C2%B7%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descColor=FF9100&descAlignY=55&descSize=18&animation=fadeIn" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Building+scalable+cloud+solutions+on+AWS;Crafting+intelligent+AI-powered+applications;Shipping+clean%2C+production-ready+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF9100&center=true&vCenter=true&repeat=true&width=600&height=35&lines=Building+scalable+cloud+solutions+on+AWS;Crafting+intelligent+AI-powered+applications;Shipping+clean%2C+production-ready+code" alt="Typing SVG" />
   </a>
 </div>
 
@@ -48,41 +48,6 @@ I'm a **Full Stack Developer** and **OSINT Enthusiast** with hands-on experience
 
 <br/>
 
-<!-- ===== FEATURED PROJECTS ===== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" width="28" /> &nbsp;Featured Projects
-
-<div align="center">
-  <a href="https://github.com/zfnick/aws-ai-compliance-audit">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=zfnick&repo=aws-ai-compliance-audit&theme=github_dark&hide_border=true&border_radius=12&show_owner=true&cache_seconds=86400" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/zfnick/claudible">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=zfnick&repo=claudible&theme=github_dark&hide_border=true&border_radius=12&show_owner=true&cache_seconds=86400" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/zfnick/Voice-Controlled-Form-Making-Web-App">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=zfnick&repo=Voice-Controlled-Form-Making-Web-App&theme=github_dark&hide_border=true&border_radius=12&show_owner=true&cache_seconds=86400" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/zfnick/University-Alumni-Website">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=zfnick&repo=University-Alumni-Website&theme=github_dark&hide_border=true&border_radius=12&show_owner=true&cache_seconds=86400" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/zfnick/Simple-Cinema-Booking-System">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=zfnick&repo=Simple-Cinema-Booking-System&theme=github_dark&hide_border=true&border_radius=12&show_owner=true&cache_seconds=86400" />
-  </a>
-</div>
-
-<br/>
-
 <!-- ===== GITHUB STATS ===== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
@@ -91,59 +56,17 @@ I'm a **Full Stack Developer** and **OSINT Enthusiast** with hands-on experience
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zfnick&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=zfnick&theme=github-dark-blue&hide_border=true&border_radius=12" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zfnick&show_icons=true&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&cache_seconds=86400&bg_color=0d1117&title_color=FF6D00&icon_color=FF9100&text_color=FFD180" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=zfnick&hide_border=true&border_radius=12&background=0d1117&ring=FF6D00&fire=FF9100&currStreakLabel=FF9100&sideLabels=FFD180&currStreakNum=FFAB40&sideNums=FFAB40&dates=8B8B8B" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfnick&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8&cache_seconds=86400" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- ===== CONTRIBUTION SNAKE ===== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" /> &nbsp;Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zfnick/zfnick/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zfnick/zfnick/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/zfnick/zfnick/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- ===== CONNECT ===== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
-</div>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28" /> &nbsp;Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/nicholas-ooi-143180224">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/zfnick">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zfnick&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfnick&layout=compact&hide_border=true&border_radius=12&langs_count=8&cache_seconds=86400&bg_color=0d1117&title_color=FF6D00&text_color=FFD180" alt="Top Languages" />
 </div>
 
 <br/>
 
 <!-- ===== FOOTER WAVE ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:FF6D00,100:0d1117&height=120&section=footer" />
