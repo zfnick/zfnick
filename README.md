@@ -20,7 +20,7 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,php,cpp,cs&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,php,cpp&theme=dark" alt="Languages" />
 
 <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="Web" />
 
@@ -38,11 +38,11 @@ I also tinker with OSINT (Open Source Intelligence) to identify misconfiguration
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,gcp&theme=dark" alt="Cloud" />
+<img src="https://skillicons.dev/icons?i=aws,docker,cloudflare&theme=dark" alt="Cloud" />
 
-<img src="https://skillicons.dev/icons?i=git,cloudflare&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,linux&theme=dark" alt="Tools" />
 
-<img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=alibabacloud&theme=dark" alt="Alibaba Cloud" />
 
 </td>
 </tr>
